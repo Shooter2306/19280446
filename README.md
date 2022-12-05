@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 <center>
 <head>
@@ -14,6 +13,5 @@
 <body bgcolor="gray">
 
 <h3> NOMBRE: </h4> <h4> Nestor Antonio Cordoba Guillen </h4>
-<h3> CREDITO: </h4> <h4> 0.0 </h4>
-
+<h3> CREDITO: 
 
