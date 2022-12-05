@@ -1,4 +1,4 @@
-# 19280446
+
 < html >
 < centro >
 < cabeza >
@@ -12,5 +12,9 @@
 < cuerpo  bgcolor =" gris " >
 
 < h3 > NOMBRE:   < h4 > Néstor Antonio Córdoba Guillén 
-< h3 > CRÉDITO:   
+< h3 > CRÉDITO:   < h4 > 0.0 
 
+
+
+</ cuerpo >
+</ html >
